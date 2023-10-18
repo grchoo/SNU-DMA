@@ -1,2 +1,2 @@
-# SUN-DMA
+# SNU-DMA
 ## SNU Data Management and Analysis
